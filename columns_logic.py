@@ -1,4 +1,3 @@
-# Name: Alon Maor, ID: 43549105
 
 
 class Faller:
